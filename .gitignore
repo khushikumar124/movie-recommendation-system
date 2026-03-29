@@ -3,10 +3,10 @@ __pycache__/
 *.pyc
 .env
 
-# ML models / data (if large)
+
 *.pkl
 *.joblib
 *.h5
 
-# Mac files (since you're on Mac)
+
 .DS_Store
